@@ -153,6 +153,8 @@ New features:
 * ``beet remove`` now also allows interactive selection of items from the query
   similar to ``beet modify``
 * :doc:`/plugins/web`: add DELETE and PATCH methods for modifying items
+* :doc:`/plugins/export`: big speedups when `--include-keys` option is used
+  Thanks to :user:`ssssam`.
 
 Fixes:
 
